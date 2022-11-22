@@ -1,0 +1,5 @@
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula1\obj\Debug\netcoreapp3.0\Aula1.csproj.AssemblyReference.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula1\obj\Debug\netcoreapp3.0\Aula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula1\obj\Debug\netcoreapp3.0\Aula1.AssemblyInfoInputs.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula1\obj\Debug\netcoreapp3.0\Aula1.AssemblyInfo.cs
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula1\obj\Debug\netcoreapp3.0\Aula1.csproj.CoreCompileInputs.cache

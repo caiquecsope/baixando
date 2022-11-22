@@ -1,0 +1,15 @@
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula15\bin\Debug\net6.0\Aula15.exe
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula15\bin\Debug\net6.0\Aula15.deps.json
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula15\bin\Debug\net6.0\Aula15.runtimeconfig.json
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula15\bin\Debug\net6.0\Aula15.dll
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula15\bin\Debug\net6.0\Aula15.pdb
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula15\obj\Debug\net6.0\Aula15.csproj.AssemblyReference.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula15\obj\Debug\net6.0\Aula15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula15\obj\Debug\net6.0\Aula15.AssemblyInfoInputs.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula15\obj\Debug\net6.0\Aula15.AssemblyInfo.cs
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula15\obj\Debug\net6.0\Aula15.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula15\obj\Debug\net6.0\Aula15.dll
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula15\obj\Debug\net6.0\refint\Aula15.dll
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula15\obj\Debug\net6.0\Aula15.pdb
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula15\obj\Debug\net6.0\Aula15.genruntimeconfig.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\Aula15\obj\Debug\net6.0\ref\Aula15.dll

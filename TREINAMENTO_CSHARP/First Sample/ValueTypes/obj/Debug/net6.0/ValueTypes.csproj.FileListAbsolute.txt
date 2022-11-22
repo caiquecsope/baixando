@@ -1,0 +1,15 @@
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\ValueTypes\bin\Debug\net6.0\ValueTypes.exe
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\ValueTypes\bin\Debug\net6.0\ValueTypes.deps.json
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\ValueTypes\bin\Debug\net6.0\ValueTypes.runtimeconfig.json
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\ValueTypes\bin\Debug\net6.0\ValueTypes.dll
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\ValueTypes\bin\Debug\net6.0\ValueTypes.pdb
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\ValueTypes\obj\Debug\net6.0\ValueTypes.csproj.AssemblyReference.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\ValueTypes\obj\Debug\net6.0\ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\ValueTypes\obj\Debug\net6.0\ValueTypes.AssemblyInfoInputs.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\ValueTypes\obj\Debug\net6.0\ValueTypes.AssemblyInfo.cs
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\ValueTypes\obj\Debug\net6.0\ValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\ValueTypes\obj\Debug\net6.0\ValueTypes.dll
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\ValueTypes\obj\Debug\net6.0\refint\ValueTypes.dll
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\ValueTypes\obj\Debug\net6.0\ValueTypes.pdb
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\ValueTypes\obj\Debug\net6.0\ValueTypes.genruntimeconfig.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\First Sample\ValueTypes\obj\Debug\net6.0\ref\ValueTypes.dll

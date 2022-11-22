@@ -1,0 +1,15 @@
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\exercises\bin\Debug\net6.0\exercises.exe
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\exercises\bin\Debug\net6.0\exercises.deps.json
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\exercises\bin\Debug\net6.0\exercises.runtimeconfig.json
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\exercises\bin\Debug\net6.0\exercises.dll
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\exercises\bin\Debug\net6.0\exercises.pdb
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\exercises\obj\Debug\net6.0\exercises.csproj.AssemblyReference.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\exercises\obj\Debug\net6.0\exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\exercises\obj\Debug\net6.0\exercises.AssemblyInfoInputs.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\exercises\obj\Debug\net6.0\exercises.AssemblyInfo.cs
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\exercises\obj\Debug\net6.0\exercises.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\exercises\obj\Debug\net6.0\exercises.dll
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\exercises\obj\Debug\net6.0\refint\exercises.dll
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\exercises\obj\Debug\net6.0\exercises.pdb
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\exercises\obj\Debug\net6.0\exercises.genruntimeconfig.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\exercises\obj\Debug\net6.0\ref\exercises.dll

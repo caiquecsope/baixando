@@ -1,0 +1,15 @@
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\function\obj\Debug\net6.0\function.csproj.AssemblyReference.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\function\obj\Debug\net6.0\function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\function\obj\Debug\net6.0\function.AssemblyInfoInputs.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\function\obj\Debug\net6.0\function.AssemblyInfo.cs
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\function\obj\Debug\net6.0\function.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\function\bin\Debug\net6.0\function.exe
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\function\bin\Debug\net6.0\function.deps.json
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\function\bin\Debug\net6.0\function.runtimeconfig.json
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\function\bin\Debug\net6.0\function.dll
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\function\bin\Debug\net6.0\function.pdb
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\function\obj\Debug\net6.0\function.dll
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\function\obj\Debug\net6.0\refint\function.dll
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\function\obj\Debug\net6.0\function.pdb
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\function\obj\Debug\net6.0\function.genruntimeconfig.cache
+C:\Users\Caique\Documents\TREINAMENTO_CSHARP\function\obj\Debug\net6.0\ref\function.dll

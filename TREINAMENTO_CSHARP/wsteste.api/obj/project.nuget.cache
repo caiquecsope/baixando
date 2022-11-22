@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "XNqzIN9M90wPwasKVXmQgKK4tT+CyA/ZrWSkWA92OfajQdvZarFqmhm6QQjeALT7L2DDffwPTAVaOgMObAF9qw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Caique\\Documents\\TREINAMENTO_CSHARP\\wsteste.api\\wsteste.api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Signa.Library.Core.Aspnet' from remote source 'https://nuget.signa.net.br/nuget/FindPackagesById()?id='Signa.Library.Core.Aspnet'&semVerLevel=2.0.0'.",
+      "libraryId": "Signa.Library.Core.Aspnet"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Signa.Library.Core' from remote source 'https://nuget.signa.net.br/nuget/FindPackagesById()?id='Signa.Library.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Signa.Library.Core"
+    }
+  ]
+}
